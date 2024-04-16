@@ -1,3 +1,5 @@
+This is a project about API keys. It calls the YouTube API and logs with your crendentials to your channel, to extract relevant infromations. These informations will then be sent as an Email to your GMail account using SMTP.
+
 Link to my YouTube Channel: https://www.youtube.com/channel/UCeNWB5QgkL4iQXCAz68zpbg
 
 The main structure of the Projects is as follows:
